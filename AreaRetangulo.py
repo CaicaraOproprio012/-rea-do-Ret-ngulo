@@ -1,15 +1,3 @@
-"""
-Programa: Cálculo da Área de um Retângulo
-
-Descrição:
------------
-Este programa solicita ao usuário a base e a altura de um retângulo,
-calcula sua área e exibe o resultado na tela.
-
-Fórmula utilizada:
-Área = Base × Altura
-"""
-
 def calcular_area_retangulo():
     print("=== CÁLCULO DA ÁREA DE UM RETÂNGULO ===")
     
